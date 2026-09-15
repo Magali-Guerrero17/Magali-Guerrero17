@@ -1,16 +1,48 @@
-## Hi there 👋
+ 👋 Hola, soy Magali Guerrero
 
-<!--
-**Magali-Guerrero17/Magali-Guerrero17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Programación
+🌐 Interesada en el desarrollo web y la programación.
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo nuevas tecnologías y desarrollando mis habilidades para crear proyectos cada vez más completos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Tecnologías y herramientas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="Visual Studio Code"/>
+</p>
+
+ # Actualmente aprendiendo
+
+  JavaScript
+   HTML & CSS
+   Diseño Responsive
+   Manipulación del DOM
+   Git & GitHub
+   Buenas prácticas de programación
+
+
+#  Mis objetivos
+
+  Seguir creciendo como programadora.
+  Mejorar mis habilidades en desarrollo web.
+  Aprender nuevas tecnologías.
+  Resolver problemas mediante la programación.
+  Construir progresivamente mi portfolio.
+
+# Áreas de interés
+
+ Desarrollo Web
+ Frontend
+ Programación
+ Diseño de interfaces
+ Tecnología
+
+
+# Siempre aprendiendo, practicando y creando.
+
