@@ -1,12 +1,12 @@
- 👋 Hola, soy Magali Guerrero
+#👋 Hola, soy Magali Guerrero
 
-💻 Estudiante de Programación
-🌐 Interesada en el desarrollo web y la programación.
+Estudiante de Programación
+Interesada en el desarrollo web y la programación.
 
 Actualmente estoy aprendiendo nuevas tecnologías y desarrollando mis habilidades para crear proyectos cada vez más completos.
 
 
-Tecnologías y herramientas
+# Tecnologías y herramientas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
