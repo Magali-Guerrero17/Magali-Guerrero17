@@ -1,4 +1,4 @@
-#👋 Hola, soy Magali Guerrero
+# 👋 Hola, soy Magali Guerrero
 
 Estudiante de Programación
 Interesada en el desarrollo web y la programación.
